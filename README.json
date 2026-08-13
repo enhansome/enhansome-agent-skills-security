@@ -1,0 +1,176 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Attack Research"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents — Chang et al., ICLR 2026. Formats injected payloads to mimic native chat templates (optionally primed by persuasive multi-turn dialogue) so agents elevate them to system-level trust; transfers across models and largely bypasses prompt-based defenses. Code",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-23T06:22:51Z",
+            "owner": "hwanchang00",
+            "repo": "ChatInject",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📄 StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection — Zhan et al., 2026. Introduces multi-step indirect prompt injection, decomposing an adversarial goal into innocuous-looking sub-steps distributed across a chain of pages along the agent's navigation path; the resulting 480-example StepJack benchmark raises attack success on computer-use agents by up to 31.2 points at fixed decomposition depth (e.g., GPT-5.4-mini 41.7%→72.9%). Code",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-05T17:28:07Z",
+            "owner": "BorealisAI",
+            "repo": "StepJack",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Indirect Prompt Injection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Defense Research"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Benchmarks & Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools & Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Agent Skill Specifications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-chatgpt-prompts — Prompt engineering (includes adversarial examples).",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T03:49:09Z",
+            "owner": "f",
+            "repo": "prompts.chat",
+            "stars": 167082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-mcp-servers — MCP server ecosystem (attack surface reference).",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T03:09:55Z",
+            "owner": "punkpeye",
+            "repo": "awesome-mcp-servers",
+            "stars": 92220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ai-agents — AI agent frameworks and projects.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-09T17:41:48Z",
+            "owner": "e2b-dev",
+            "repo": "awesome-ai-agents",
+            "stars": 29400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ml-for-cybersecurity — ML applied to cybersecurity.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-19T02:14:10Z",
+            "owner": "jivoi",
+            "repo": "awesome-ml-for-cybersecurity",
+            "stars": 9270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-llm-security — General LLM security resources.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-20T01:27:47Z",
+            "owner": "corca-ai",
+            "repo": "awesome-llm-security",
+            "stars": 1679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ai-safety — AI safety research and resources.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-02-09T19:04:38Z",
+            "owner": "hari-sikchi",
+            "repo": "awesome-ai-safety",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "Related Awesome Lists"
+    },
+    {
+      "description": "Contributions are welcome! Please read the contribution guidelines before submitting a pull request.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "If you find this list useful in your research, please cite:",
+      "items": [],
+      "title": "Citation"
+    },
+    {
+      "description": "This list is released under CC0 1.0 Universal.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:46:46.775Z",
+    "original_repository": "LLMSecurity/awesome-agent-skills-security",
+    "original_repository_sha": "313e9cf2e2c82e615f27d26ee27356c3fc6dfd60",
+    "enhanced_repository": "enhansome/enhansome-agent-skills-security",
+    "enhanced_repository_description": null,
+    "title": "Awesome Agent Skills Security with stars"
+  }
+}
