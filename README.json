@@ -46,6 +46,32 @@
     },
     {
       "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming — Wang et al., 2026. PIMiner, an agentic prompt-injection red-teaming system that builds a transferable strategy library from scratch during training and applies it to previously unseen target LLMs without retraining using only ~10 queries per sample, reaching up to 86.7% ASR on AgentDojo and 76.2% on IPIArena against frontier models. Code",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T02:14:03Z",
+            "owner": "Wang-Yanting",
+            "repo": "PIMiner",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📄 Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming — Mao et al., 2026. AHA, a falsifiable discovery loop that proposes a vulnerability hypothesis, builds a falsifier, instantiates and executes an attack in a sandboxed harness, then promotes confirmed findings into a reusable Vulnerability Concept Graph (VCG); across Claude Code and Codex on direct and indirect attacks, the frozen VCG requires no further search yet beats the strongest discovery baseline by 14.2 points under a single-shot protocol and transfers across scenarios and attack channels. Code",
+          "description": ".",
+          "children": []
+        }
+      ],
+      "title": "Evaluation & Red Teaming"
+    },
+    {
+      "description": "",
       "items": [],
       "title": "Benchmarks & Datasets"
     },
@@ -70,10 +96,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-15T03:18:07Z",
+            "last_commit": "2026-08-16T03:22:07Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167163
+            "stars": 167250
           }
         },
         {
@@ -87,7 +113,7 @@
             "last_commit": "2026-08-03T03:09:55Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92360
+            "stars": 92414
           }
         },
         {
@@ -101,7 +127,7 @@
             "last_commit": "2026-07-09T17:41:48Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29428
+            "stars": 29452
           }
         },
         {
@@ -115,7 +141,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9279
+            "stars": 9285
           }
         },
         {
@@ -129,7 +155,7 @@
             "last_commit": "2025-08-20T01:27:47Z",
             "owner": "corca-ai",
             "repo": "awesome-llm-security",
-            "stars": 1682
+            "stars": 1683
           }
         },
         {
@@ -166,9 +192,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:02:07.829Z",
+    "last_updated": "2026-08-16T14:02:53.953Z",
     "original_repository": "LLMSecurity/awesome-agent-skills-security",
-    "original_repository_sha": "cfea213818122eb466384abb74c32457ea23dcf5",
+    "original_repository_sha": "ec3a98603473c4a35b27a43f7c550335f5066f91",
     "enhanced_repository": "enhansome/enhansome-agent-skills-security",
     "enhanced_repository_description": null,
     "title": "Awesome Agent Skills Security with stars"
