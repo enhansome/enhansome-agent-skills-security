@@ -33,7 +33,7 @@
             "last_commit": "2026-05-05T17:28:07Z",
             "owner": "BorealisAI",
             "repo": "StepJack",
-            "stars": 2
+            "stars": 3
           }
         }
       ],
@@ -96,10 +96,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-17T03:22:38Z",
+            "last_commit": "2026-08-18T03:20:31Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167297
+            "stars": 167419
           }
         },
         {
@@ -110,10 +110,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-03T03:09:55Z",
+            "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92473
+            "stars": 92521
           }
         },
         {
@@ -127,7 +127,7 @@
             "last_commit": "2026-07-09T17:41:48Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29481
+            "stars": 29523
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9290
+            "stars": 9291
           }
         },
         {
@@ -192,7 +192,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:12:21.539Z",
+    "last_updated": "2026-08-18T14:17:50.617Z",
     "original_repository": "LLMSecurity/awesome-agent-skills-security",
     "original_repository_sha": "ec3a98603473c4a35b27a43f7c550335f5066f91",
     "enhanced_repository": "enhansome/enhansome-agent-skills-security",
