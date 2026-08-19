@@ -86,7 +86,7 @@
             "last_commit": "2026-08-19T03:21:13Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167526
+            "stars": 167545
           }
         },
         {
@@ -101,7 +101,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92564
+            "stars": 92566
           }
         },
         {
@@ -116,7 +116,7 @@
             "last_commit": "2026-07-09T17:41:48Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29554
+            "stars": 29555
           }
         },
         {
@@ -169,7 +169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:16:13.346Z",
+    "last_updated": "2026-08-19T14:18:56.849Z",
     "original_repository": "LLMSecurity/awesome-agent-skills-security",
     "original_repository_id": 1176605030,
     "original_repository_sha": "94225dd90a8e9381b28b7a3c5d8e8929f45891f1",
