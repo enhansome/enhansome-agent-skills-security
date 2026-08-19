@@ -1,92 +1,78 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents — Chang et al., ICLR 2026. Formats injected payloads to mimic native chat templates (optionally primed by persuasive multi-turn dialogue) so agents elevate them to system-level trust; transfers across models and largely bypasses prompt-based defenses. Code",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1065135404,
+                "language": "Python",
+                "last_commit": "2026-03-23T06:22:51Z",
+                "owner": "hwanchang00",
+                "repo": "ChatInject",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📄 StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection — Zhan et al., 2026. Introduces multi-step indirect prompt injection, decomposing an adversarial goal into innocuous-looking sub-steps distributed across a chain of pages along the agent's navigation path; the resulting 480-example StepJack benchmark raises attack success on computer-use agents by up to 31.2 points at fixed decomposition depth (e.g., GPT-5.4-mini 41.7%→72.9%). Code",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1230089298,
+                "language": "Python",
+                "last_commit": "2026-05-05T17:28:07Z",
+                "owner": "BorealisAI",
+                "repo": "StepJack",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Indirect Prompt Injection"
+        }
+      ],
       "title": "Attack Research"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "📄 ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents — Chang et al., ICLR 2026. Formats injected payloads to mimic native chat templates (optionally primed by persuasive multi-turn dialogue) so agents elevate them to system-level trust; transfers across models and largely bypasses prompt-based defenses. Code",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-23T06:22:51Z",
-            "owner": "hwanchang00",
-            "repo": "ChatInject",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "📄 StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection — Zhan et al., 2026. Introduces multi-step indirect prompt injection, decomposing an adversarial goal into innocuous-looking sub-steps distributed across a chain of pages along the agent's navigation path; the resulting 480-example StepJack benchmark raises attack success on computer-use agents by up to 31.2 points at fixed decomposition depth (e.g., GPT-5.4-mini 41.7%→72.9%). Code",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-05T17:28:07Z",
-            "owner": "BorealisAI",
-            "repo": "StepJack",
-            "stars": 3
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming — Wang et al., 2026. PIMiner, an agentic prompt-injection red-teaming system that builds a transferable strategy library from scratch during training and applies it to previously unseen target LLMs without retraining using only ~10 queries per sample, reaching up to 86.7% ASR on AgentDojo and 76.2% on IPIArena against frontier models. Code",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1313485060,
+                "language": "Python",
+                "last_commit": "2026-08-02T02:14:03Z",
+                "owner": "Wang-Yanting",
+                "repo": "PIMiner",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Evaluation & Red Teaming"
         }
       ],
-      "title": "Indirect Prompt Injection"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Defense Research"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming — Wang et al., 2026. PIMiner, an agentic prompt-injection red-teaming system that builds a transferable strategy library from scratch during training and applies it to previously unseen target LLMs without retraining using only ~10 queries per sample, reaching up to 86.7% ASR on AgentDojo and 76.2% on IPIArena against frontier models. Code",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-02T02:14:03Z",
-            "owner": "Wang-Yanting",
-            "repo": "PIMiner",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "📄 Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming — Mao et al., 2026. AHA, a falsifiable discovery loop that proposes a vulnerability hypothesis, builds a falsifier, instantiates and executes an attack in a sandboxed harness, then promotes confirmed findings into a reusable Vulnerability Concept Graph (VCG); across Claude Code and Codex on direct and indirect attacks, the frozen VCG requires no further search yet beats the strongest discovery baseline by 14.2 points under a single-shot protocol and transfers across scenarios and attack channels. Code",
-          "description": ".",
-          "children": []
-        }
-      ],
-      "title": "Evaluation & Red Teaming"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Benchmarks & Datasets"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tools & Frameworks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Agent Skill Specifications"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -95,11 +81,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-18T03:20:31Z",
+            "last_commit": "2026-08-19T03:21:13Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167419
+            "stars": 167526
           }
         },
         {
@@ -109,11 +96,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 896335270,
             "language": null,
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92521
+            "stars": 92564
           }
         },
         {
@@ -123,11 +111,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 655459367,
             "language": null,
             "last_commit": "2026-07-09T17:41:48Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29523
+            "stars": 29554
           }
         },
         {
@@ -137,11 +126,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76955905,
             "language": null,
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9291
+            "stars": 9299
           }
         },
         {
@@ -151,6 +141,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 662394571,
             "language": null,
             "last_commit": "2025-08-20T01:27:47Z",
             "owner": "corca-ai",
@@ -165,6 +156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178391990,
             "language": null,
             "last_commit": "2020-02-09T19:04:38Z",
             "owner": "hari-sikchi",
@@ -174,27 +166,13 @@
         }
       ],
       "title": "Related Awesome Lists"
-    },
-    {
-      "description": "Contributions are welcome! Please read the contribution guidelines before submitting a pull request.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "If you find this list useful in your research, please cite:",
-      "items": [],
-      "title": "Citation"
-    },
-    {
-      "description": "This list is released under CC0 1.0 Universal.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:17:50.617Z",
+    "last_updated": "2026-08-19T12:16:13.346Z",
     "original_repository": "LLMSecurity/awesome-agent-skills-security",
-    "original_repository_sha": "ec3a98603473c4a35b27a43f7c550335f5066f91",
+    "original_repository_id": 1176605030,
+    "original_repository_sha": "94225dd90a8e9381b28b7a3c5d8e8929f45891f1",
     "enhanced_repository": "enhansome/enhansome-agent-skills-security",
     "enhanced_repository_description": null,
     "title": "Awesome Agent Skills Security with stars"
