@@ -83,10 +83,10 @@
             "archived": false,
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-19T03:21:13Z",
+            "last_commit": "2026-08-20T03:20:51Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167545
+            "stars": 167633
           }
         },
         {
@@ -101,7 +101,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92566
+            "stars": 92602
           }
         },
         {
@@ -113,10 +113,10 @@
             "archived": false,
             "id": 655459367,
             "language": null,
-            "last_commit": "2026-07-09T17:41:48Z",
+            "last_commit": "2026-08-19T22:43:57Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29555
+            "stars": 29584
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9299
+            "stars": 9302
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2025-08-20T01:27:47Z",
             "owner": "corca-ai",
             "repo": "awesome-llm-security",
-            "stars": 1683
+            "stars": 1685
           }
         },
         {
@@ -169,10 +169,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:18:56.849Z",
+    "last_updated": "2026-08-20T14:22:23.415Z",
     "original_repository": "LLMSecurity/awesome-agent-skills-security",
     "original_repository_id": 1176605030,
-    "original_repository_sha": "94225dd90a8e9381b28b7a3c5d8e8929f45891f1",
+    "original_repository_sha": "13f86746c65dbb30290c56bd5340c212c71343d7",
     "enhanced_repository": "enhansome/enhansome-agent-skills-security",
     "enhanced_repository_description": null,
     "title": "Awesome Agent Skills Security with stars"
