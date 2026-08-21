@@ -60,7 +60,7 @@
                 "last_commit": "2026-08-02T02:14:03Z",
                 "owner": "Wang-Yanting",
                 "repo": "PIMiner",
-                "stars": 10
+                "stars": 11
               }
             }
           ],
@@ -83,10 +83,10 @@
             "archived": false,
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-20T03:20:51Z",
+            "last_commit": "2026-08-21T03:23:58Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167633
+            "stars": 167692
           }
         },
         {
@@ -101,7 +101,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92602
+            "stars": 92650
           }
         },
         {
@@ -116,7 +116,7 @@
             "last_commit": "2026-08-19T22:43:57Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29584
+            "stars": 29601
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9302
+            "stars": 9308
           }
         },
         {
@@ -169,7 +169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:22:23.415Z",
+    "last_updated": "2026-08-21T14:20:32.975Z",
     "original_repository": "LLMSecurity/awesome-agent-skills-security",
     "original_repository_id": 1176605030,
     "original_repository_sha": "13f86746c65dbb30290c56bd5340c212c71343d7",
