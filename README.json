@@ -7,8 +7,30 @@
           "children": [
             {
               "node_type": "item",
-              "title": "📄 ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents — Chang et al., ICLR 2026. Formats injected payloads to mimic native chat templates (optionally primed by persuasive multi-turn dialogue) so agents elevate them to system-level trust; transfers across models and largely bypasses prompt-based defenses. Code",
-              "description": ".",
+              "title": "📄 Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents",
+              "description": "Liu et al., 2026. Hides malicious audio instructions that imperceptibly \"piggyback\" onto user speech to hijack continuous-audio multimodal agents (69.1% attack success against Gemini 3 Pro), introducing the AudioAgentSecurity benchmark (8 scenarios, 10 attack patterns) and a Cascaded Audio Decoupling and Verification (CADV) defense that reaches over 90% detection via acoustic source separation and cross-modal consistency. Code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1317191306,
+                "language": "Python",
+                "last_commit": "2026-07-30T12:16:45Z",
+                "owner": "Limax666",
+                "repo": "AudioAgentSecurity",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Prompt Injection via Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents",
+              "description": "Chang et al., ICLR 2026. Formats injected payloads to mimic native chat templates (optionally primed by persuasive multi-turn dialogue) so agents elevate them to system-level trust; transfers across models and largely bypasses prompt-based defenses. Code.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -22,8 +44,8 @@
             },
             {
               "node_type": "item",
-              "title": "📄 StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection — Zhan et al., 2026. Introduces multi-step indirect prompt injection, decomposing an adversarial goal into innocuous-looking sub-steps distributed across a chain of pages along the agent's navigation path; the resulting 480-example StepJack benchmark raises attack success on computer-use agents by up to 31.2 points at fixed decomposition depth (e.g., GPT-5.4-mini 41.7%→72.9%). Code",
-              "description": ".",
+              "title": "📄 StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection",
+              "description": "Zhan et al., 2026. Introduces multi-step indirect prompt injection, decomposing an adversarial goal into innocuous-looking sub-steps distributed across a chain of pages along the agent's navigation path; the resulting 480-example StepJack benchmark raises attack success on computer-use agents by up to 31.2 points at fixed decomposition depth (e.g., GPT-5.4-mini 41.7%→72.9%). Code.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -50,8 +72,52 @@
           "children": [
             {
               "node_type": "item",
-              "title": "📄 Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming — Wang et al., 2026. PIMiner, an agentic prompt-injection red-teaming system that builds a transferable strategy library from scratch during training and applies it to previously unseen target LLMs without retraining using only ~10 queries per sample, reaching up to 86.7% ASR on AgentDojo and 76.2% on IPIArena against frontier models. Code",
-              "description": ".",
+              "title": "📄 Janus: A Playground for User-Involved Agentic Permission Management",
+              "description": "Brigham et al., 2026. Playground system implementing six permission assistants across a design space of user involvement in agentic tool-call authorization; shows user input meaningfully strengthens privacy and security, AI augmentation of user decisions reduces cognitive load, and permission fatigue must be modeled since no single design is optimal across contexts. Code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1286463397,
+                "language": "Python",
+                "last_commit": "2026-07-01T20:32:44Z",
+                "owner": "GraceBrigham",
+                "repo": "Janus",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Permission & Access Control"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Tool Specifications Matter: Uncovering and Mitigating Safety Risks in AI Agents",
+              "description": "Pan et al., 2026. Identifies schema-formatted tool specifications as a primary source of agent safety degradation — white-box representation analysis shows they weaken the model's internal refusal signals — and proposes SafeKeep, an inference-time safeguard that judges requests against flattened textual tool specs while executing with the original schema, raising harmful-request refusal from 23.8% to 70.6% and cutting observation-level prompt-injection success from 25.6% to 2.5%. Code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1318190591,
+                "language": "Python",
+                "last_commit": "2026-07-31T09:47:17Z",
+                "owner": "snowcatsmoking",
+                "repo": "SafeKeep",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Input/Output Validation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming",
+              "description": "Wang et al., 2026. PIMiner, an agentic prompt-injection red-teaming system that builds a transferable strategy library from scratch during training and applies it to previously unseen target LLMs without retraining using only ~10 queries per sample, reaching up to 86.7% ASR on AgentDojo and 76.2% on IPIArena against frontier models. Code.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -76,23 +142,590 @@
       "items": [
         {
           "node_type": "item",
-          "title": "awesome-chatgpt-prompts — Prompt engineering (includes adversarial examples).",
-          "description": null,
+          "title": "ASB",
+          "description": "Comprehensive agent security 10 agents, 398 envs Zhang et al.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 866876035,
+            "language": "Python",
+            "last_commit": "2026-04-16T20:53:34Z",
+            "owner": "agiresearch",
+            "repo": "ASB",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InjecAgent",
+          "description": "Indirect prompt injection 1,054 test cases Zhan et al.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 760248121,
+            "language": "Python",
+            "last_commit": "2024-07-02T05:39:24Z",
+            "owner": "uiuc-kang-lab",
+            "repo": "InjecAgent",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R-Judge",
+          "description": "Safety risk awareness 162 records, 27 scenarios Yuan et al.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 745008010,
+            "language": "Python",
+            "last_commit": "2026-01-11T01:45:49Z",
+            "owner": "Lordog",
+            "repo": "R-Judge",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToolSword",
+          "description": "Tool learning safety 6 scenarios, 3 stages Ye et al.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 758513725,
+            "language": null,
+            "last_commit": "2024-09-12T15:32:49Z",
+            "owner": "Junjie-Ye",
+            "repo": "ToolSword",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkillGuard Dataset",
+          "description": "Malicious skill detection 157 malicious skills Liu et al.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1166956328,
+            "language": null,
+            "last_commit": "2026-02-25T20:02:14Z",
+            "owner": "LLMSecurity",
+            "repo": "skillguard",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AudioAgentSecurity",
+          "description": "Audio prompt injection vs. multimodal agents 8 scenarios, 10 patterns Liu et al.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1317191306,
+            "language": "Python",
+            "last_commit": "2026-07-30T12:16:45Z",
+            "owner": "Limax666",
+            "repo": "AudioAgentSecurity",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StepJack",
+          "description": "Multi-step indirect prompt injection vs. computer-use agents 480 test cases Zhan et al.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1230089298,
+            "language": "Python",
+            "last_commit": "2026-05-05T17:28:07Z",
+            "owner": "BorealisAI",
+            "repo": "StepJack",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Benchmarks & Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Agent Memory Guard",
+          "description": "OWASP reference implementation for ASI06 (Memory Poisoning): runtime defense that screens every agent memory read/write through detectors + a declarative policy, with source-class provenance, forensic SecurityEvents, and snapshot rollback. LangChain/OpenAI-Agents/AutoGen/CrewAI/mem0 integrations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1159563091,
+            "language": "Python",
+            "last_commit": "2026-08-24T00:18:12Z",
+            "owner": "OWASP",
+            "repo": "www-project-agent-memory-guard",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bounty Sieve",
+          "description": "Offline-by-default bounty intake guardrail for coding agents: read-only GitHub issue/URL-list import, deterministic triage, local decision briefs, and human approval gates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1246454920,
+            "language": "Python",
+            "last_commit": "2026-05-27T17:23:25Z",
+            "owner": "junbuilds96",
+            "repo": "bounty-sieve",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkillGuard",
+          "description": "LLM-native agent skill security auditor (OWASP Agentic + MITRE ATLAS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1166956328,
+            "language": null,
+            "last_commit": "2026-02-25T20:02:14Z",
+            "owner": "LLMSecurity",
+            "repo": "skillguard",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pipelock",
+          "description": "Open-source AI agent firewall and MCP-aware egress proxy with DLP, prompt injection scanning, process sandboxing, and mediator-signed action receipts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1152497359,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:47:41Z",
+            "owner": "luckyPipewrench",
+            "repo": "pipelock",
+            "stars": 810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NemoClaw",
+          "description": "NVIDIA reference stack for running always-on AI agents more safely in sandboxes, with network policy, hardening, routed inference, and lifecycle controls",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1182547092,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:32:19Z",
+            "owner": "NVIDIA",
+            "repo": "NemoClaw",
+            "stars": 22261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CubeSandbox",
+          "description": "Hardware-isolated (per-kernel) sub-60ms sandbox for secure AI agent code execution, with an out-of-sandbox credential vault, eBPF network isolation, and domain-allowlisted egress controls with audit logging",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1206553433,
+            "language": "Go",
+            "last_commit": "2026-08-24T09:56:28Z",
+            "owner": "TencentCloud",
+            "repo": "CubeSandbox",
+            "stars": 11321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invariant Guardrails",
+          "description": "Policy-based agent security guardrails",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 797652850,
+            "language": "Python",
+            "last_commit": "2026-01-12T12:50:28Z",
+            "owner": "invariantlabs-ai",
+            "repo": "invariant",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Armorer Guard",
+          "description": "Local Rust scanner for AI-agent prompt injection, credential redaction, sensitive-data requests, exfiltration-style text, and dangerous tool-call context",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1208853156,
+            "language": "Rust",
+            "last_commit": "2026-08-09T16:27:45Z",
+            "owner": "ArmorerLabs",
+            "repo": "Armorer-Guard",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM Guard",
+          "description": "Input/output scanning for LLM applications",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 671629770,
+            "language": "Python",
+            "last_commit": "2026-07-08T23:58:40Z",
+            "owner": "protectai",
+            "repo": "llm-guard",
+            "stars": 3202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rebuff",
+          "description": "Self-hardening prompt injection detector",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 631814434,
+            "language": "TypeScript",
+            "last_commit": "2024-08-07T23:35:48Z",
+            "owner": "protectai",
+            "repo": "rebuff",
+            "stars": 1520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeMo Guardrails",
+          "description": "NVIDIA's toolkit for adding guardrails to LLM-based applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 629494390,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:23:16Z",
+            "owner": "NVIDIA-NeMo",
+            "repo": "Guardrails",
+            "stars": 7008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Promptfoo",
+          "description": "LLM red teaming and evaluation framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633927609,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:44:38Z",
+            "owner": "promptfoo",
+            "repo": "promptfoo",
+            "stars": 24527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Garak",
+          "description": "LLM vulnerability scanner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 639097338,
+            "language": "Python",
+            "last_commit": "2026-08-21T14:25:03Z",
+            "owner": "NVIDIA",
+            "repo": "garak",
+            "stars": 9006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IPI-Proxy",
+          "description": "Intercepting proxy for red-teaming web-browsing agents against indirect prompt injection on live whitelisted domains",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1229416277,
+            "language": "Python",
+            "last_commit": "2026-05-05T07:08:37Z",
+            "owner": "VulcanLab",
+            "repo": "IPI-Proxy",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tuning Engines CLI",
+          "description": "MCP server and CLI for governed agent/skill/tool access with policy checks, approvals, traces, and role-scoped registries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1182089557,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T02:06:00Z",
+            "owner": "cerebrixos-org",
+            "repo": "tuning-engines-cli",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentSkillsScanner",
+          "description": "Static analysis scanner for agent skill definitions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1153538365,
+            "language": "Python",
+            "last_commit": "2026-02-09T14:10:34Z",
+            "owner": "sumleo",
+            "repo": "AgentSkillsScanner",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkillTotal",
+          "description": "Static, offline scanner for AI components (MCP servers, agent skills, npm/PyPI packages, repos): supply-chain risk, dangerous capabilities, prompt-injection, exfiltration; deterministic, evidence-anchored, SARIF + pre-commit/GitHub Action",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1262005492,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:54:28Z",
+            "owner": "pezhik",
+            "repo": "skilltotal",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkilLock",
+          "description": "Behavior-pinning lockfile + capability-delta PR review for Claude Code & Codex skills; SARIF output for Code Scanning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1238024442,
+            "language": "Go",
+            "last_commit": "2026-08-14T17:15:26Z",
+            "owner": "skills-lock",
+            "repo": "skil-lock",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agent-diff-guard",
+          "description": "Pre-push guardrail that flags high-risk coding-agent diffs such as CI/CD changes, dependency edits, test deletions, hardcoded secrets, and task-scope drift before merge",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1264246073,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T13:23:54Z",
+            "owner": "cubxxw",
+            "repo": "agent-diff-guard",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skillid",
+          "description": "Policy-driven Claude Code plugin that combines skill guidance with per-tool hooks to enforce org guardrails, confirmation rules, redaction, and connector-specific access control",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1264191663,
+            "language": "Python",
+            "last_commit": "2026-06-10T14:43:20Z",
+            "owner": "dkoly",
+            "repo": "skillid",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Assay Harness",
+          "description": "CI gate that checks an agent's claimed tool side-effects (filesystem, network, process) against independently observed runtime evidence, classifying each claim as supported, degraded, blocked, or not-evaluable (observed support is the ceiling)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1212416512,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T12:35:27Z",
+            "owner": "Rul1an",
+            "repo": "Assay-Harness",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent Scan",
+          "description": "Snyk's scanner for local agent supply chains, covering MCP servers and skills with checks for prompt injection, tool poisoning, toxic flows, and malware-laced skill files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 962024783,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:11:28Z",
+            "owner": "snyk",
+            "repo": "agent-scan",
+            "stars": 2952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DScan",
+          "description": "Open-source agent security suite for runtime tool-call tracing, prompt-injection shielding, MCP audits, adversarial testing, and sequence-level attack detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1263454417,
+            "language": "Python",
+            "last_commit": "2026-07-21T04:12:57Z",
+            "owner": "DeepScan-Security",
+            "repo": "dscan",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sayfos SDK",
+          "description": "Runtime guardrail SDK for AI agents with provenance checks, budget governance, plan preflight, and adjudication tokens before high-risk tool actions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1263843450,
+            "language": "Python",
+            "last_commit": "2026-06-15T10:28:14Z",
+            "owner": "sayfos-labs",
+            "repo": "sayfos-sdk",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PIC Standard",
+          "description": "Local-first standard and reference verifier that checks agent intent, provenance, and evidence at the action boundary and fails closed before high-impact tool calls; Python CLI, MCP/LangGraph/OpenClaw integrations, HTTP bridge, and a language-agnostic conformance suite",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1130565808,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:36:46Z",
+            "owner": "pic-standard",
+            "repo": "pic-standard",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agent-sentinel",
+          "description": "eBPF/BPF-LSM prototype that monitors local agent behavior and atomically blocks prompt-injection-driven access to sensitive files at the kernel boundary",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1265323148,
+            "language": "Python",
+            "last_commit": "2026-06-11T01:49:37Z",
+            "owner": "junlinwk",
+            "repo": "agent-sentinel",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcp-sploit",
+          "description": "Metasploit-style framework for authorized security testing of MCP servers and MCP security gateways, including enumeration and exploit modules for unsafe tool exposure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1265077792,
+            "language": "Python",
+            "last_commit": "2026-06-11T10:22:25Z",
+            "owner": "Prasanna-27eng",
+            "repo": "mcp-sploit",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clawvisor",
+          "description": "AI agent gateway for purpose-based authorization, credential vaulting, and audit logging — agents declare task scope, humans approve once, Clawvisor enforces on every request without the agent ever seeing credentials",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1170246605,
+            "language": "Go",
+            "last_commit": "2026-08-19T19:33:22Z",
+            "owner": "clawvisor",
+            "repo": "clawvisor",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trentclaw",
+          "description": "Security assessment skill for OpenClaw environments: scans gateway config, skill permissions, MCP trust boundaries, and plugins, and correlates them into chained attack paths with severity-ranked remediation steps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1172465854,
+            "language": "Python",
+            "last_commit": "2026-07-27T21:31:39Z",
+            "owner": "trnt-ai",
+            "repo": "trent-openclaw-security-assessment",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nobulex",
+          "description": "Trust Capital scoring layer for AI agents: bilateral Ed25519 receipts (pre- and post-execution signatures), content-addressed via action_ref and hash-chained per RFC 8785, that accumulate into a published 300-850 reputation score gating agent autonomy. CTEF v0.3.2 14/14 conformance. Python + TypeScript SDKs. Receipt-signing approach merged into Microsoft AGT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1170108646,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T22:50:14Z",
+            "owner": "arian-gogani",
+            "repo": "nobulex",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Tools & Frameworks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-chatgpt-prompts",
+          "description": "Prompt engineering (includes adversarial examples).",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-23T03:23:38Z",
+            "last_commit": "2026-08-24T03:24:40Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167798
+            "stars": 167848
           }
         },
         {
           "node_type": "item",
-          "title": "awesome-mcp-servers — MCP server ecosystem (attack surface reference).",
-          "description": null,
+          "title": "awesome-mcp-servers",
+          "description": "MCP server ecosystem (attack surface reference).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -101,13 +734,13 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92714
+            "stars": 92740
           }
         },
         {
           "node_type": "item",
-          "title": "awesome-ai-agents — AI agent frameworks and projects.",
-          "description": null,
+          "title": "awesome-ai-agents",
+          "description": "AI agent frameworks and projects.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -116,13 +749,13 @@
             "last_commit": "2026-08-21T18:52:45Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29633
+            "stars": 29650
           }
         },
         {
           "node_type": "item",
-          "title": "awesome-ml-for-cybersecurity — ML applied to cybersecurity.",
-          "description": null,
+          "title": "awesome-ml-for-cybersecurity",
+          "description": "ML applied to cybersecurity.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -131,13 +764,13 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9313
+            "stars": 9318
           }
         },
         {
           "node_type": "item",
-          "title": "awesome-llm-security — General LLM security resources.",
-          "description": null,
+          "title": "awesome-llm-security",
+          "description": "General LLM security resources.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -151,8 +784,8 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-ai-safety — AI safety research and resources.",
-          "description": null,
+          "title": "awesome-ai-safety",
+          "description": "AI safety research and resources.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -169,7 +802,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:02:55.267Z",
+    "last_updated": "2026-08-24T14:47:00.348Z",
     "original_repository": "LLMSecurity/awesome-agent-skills-security",
     "original_repository_id": 1176605030,
     "original_repository_sha": "13f86746c65dbb30290c56bd5340c212c71343d7",
