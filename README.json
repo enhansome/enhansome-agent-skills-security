@@ -320,7 +320,7 @@
             "archived": false,
             "id": 1182547092,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:32:19Z",
+            "last_commit": "2026-08-24T14:59:26Z",
             "owner": "NVIDIA",
             "repo": "NemoClaw",
             "stars": 22261
@@ -410,10 +410,10 @@
             "archived": false,
             "id": 629494390,
             "language": "Python",
-            "last_commit": "2026-08-24T14:23:16Z",
+            "last_commit": "2026-08-24T15:03:46Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7008
+            "stars": 7009
           }
         },
         {
@@ -428,7 +428,7 @@
             "last_commit": "2026-08-24T14:44:38Z",
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24527
+            "stars": 24528
           }
         },
         {
@@ -443,7 +443,7 @@
             "last_commit": "2026-08-21T14:25:03Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9006
+            "stars": 9007
           }
         },
         {
@@ -500,7 +500,7 @@
             "archived": false,
             "id": 1262005492,
             "language": "Python",
-            "last_commit": "2026-08-24T09:54:28Z",
+            "last_commit": "2026-08-24T15:04:56Z",
             "owner": "pezhik",
             "repo": "skilltotal",
             "stars": 1
@@ -719,7 +719,7 @@
             "last_commit": "2026-08-24T03:24:40Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167848
+            "stars": 167849
           }
         },
         {
@@ -734,7 +734,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92740
+            "stars": 92742
           }
         },
         {
@@ -802,7 +802,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:47:00.348Z",
+    "last_updated": "2026-08-24T15:07:22.879Z",
     "original_repository": "LLMSecurity/awesome-agent-skills-security",
     "original_repository_id": 1176605030,
     "original_repository_sha": "13f86746c65dbb30290c56bd5340c212c71343d7",
