@@ -39,7 +39,7 @@
                 "last_commit": "2026-03-23T06:22:51Z",
                 "owner": "hwanchang00",
                 "repo": "ChatInject",
-                "stars": 21
+                "stars": 22
               }
             },
             {
@@ -260,7 +260,7 @@
             "archived": false,
             "id": 1159563091,
             "language": "Python",
-            "last_commit": "2026-08-24T00:18:12Z",
+            "last_commit": "2026-08-25T06:07:15Z",
             "owner": "OWASP",
             "repo": "www-project-agent-memory-guard",
             "stars": 155
@@ -305,10 +305,10 @@
             "archived": false,
             "id": 1152497359,
             "language": "Go",
-            "last_commit": "2026-08-24T13:47:41Z",
+            "last_commit": "2026-08-25T03:01:49Z",
             "owner": "luckyPipewrench",
             "repo": "pipelock",
-            "stars": 810
+            "stars": 812
           }
         },
         {
@@ -320,10 +320,10 @@
             "archived": false,
             "id": 1182547092,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:59:26Z",
+            "last_commit": "2026-08-25T06:34:20Z",
             "owner": "NVIDIA",
             "repo": "NemoClaw",
-            "stars": 22261
+            "stars": 22266
           }
         },
         {
@@ -335,10 +335,10 @@
             "archived": false,
             "id": 1206553433,
             "language": "Go",
-            "last_commit": "2026-08-24T09:56:28Z",
+            "last_commit": "2026-08-25T06:33:39Z",
             "owner": "TencentCloud",
             "repo": "CubeSandbox",
-            "stars": 11321
+            "stars": 11327
           }
         },
         {
@@ -353,7 +353,7 @@
             "last_commit": "2026-01-12T12:50:28Z",
             "owner": "invariantlabs-ai",
             "repo": "invariant",
-            "stars": 448
+            "stars": 450
           }
         },
         {
@@ -383,7 +383,7 @@
             "last_commit": "2026-07-08T23:58:40Z",
             "owner": "protectai",
             "repo": "llm-guard",
-            "stars": 3202
+            "stars": 3203
           }
         },
         {
@@ -410,10 +410,10 @@
             "archived": false,
             "id": 629494390,
             "language": "Python",
-            "last_commit": "2026-08-24T15:03:46Z",
+            "last_commit": "2026-08-25T02:11:41Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7009
+            "stars": 7013
           }
         },
         {
@@ -425,10 +425,10 @@
             "archived": false,
             "id": 633927609,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:44:38Z",
+            "last_commit": "2026-08-25T06:10:24Z",
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24528
+            "stars": 24549
           }
         },
         {
@@ -443,7 +443,7 @@
             "last_commit": "2026-08-21T14:25:03Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9007
+            "stars": 9023
           }
         },
         {
@@ -473,7 +473,7 @@
             "last_commit": "2026-08-18T02:06:00Z",
             "owner": "cerebrixos-org",
             "repo": "tuning-engines-cli",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -575,10 +575,10 @@
             "archived": false,
             "id": 962024783,
             "language": "Python",
-            "last_commit": "2026-08-24T14:11:28Z",
+            "last_commit": "2026-08-24T16:18:02Z",
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 2952
+            "stars": 2955
           }
         },
         {
@@ -716,10 +716,10 @@
             "archived": false,
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-24T03:24:40Z",
+            "last_commit": "2026-08-25T03:21:48Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167849
+            "stars": 167871
           }
         },
         {
@@ -734,7 +734,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92742
+            "stars": 92765
           }
         },
         {
@@ -749,7 +749,7 @@
             "last_commit": "2026-08-21T18:52:45Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29650
+            "stars": 29662
           }
         },
         {
@@ -764,7 +764,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9318
+            "stars": 9321
           }
         },
         {
@@ -802,7 +802,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:07:22.879Z",
+    "last_updated": "2026-08-25T06:36:46.189Z",
     "original_repository": "LLMSecurity/awesome-agent-skills-security",
     "original_repository_id": 1176605030,
     "original_repository_sha": "13f86746c65dbb30290c56bd5340c212c71343d7",
