@@ -167,7 +167,7 @@
             "last_commit": "2024-07-02T05:39:24Z",
             "owner": "uiuc-kang-lab",
             "repo": "InjecAgent",
-            "stars": 161
+            "stars": 162
           }
         },
         {
@@ -260,7 +260,7 @@
             "archived": false,
             "id": 1159563091,
             "language": "Python",
-            "last_commit": "2026-08-26T12:44:31Z",
+            "last_commit": "2026-08-27T02:35:04Z",
             "owner": "OWASP",
             "repo": "www-project-agent-memory-guard",
             "stars": 156
@@ -305,10 +305,10 @@
             "archived": false,
             "id": 1152497359,
             "language": "Go",
-            "last_commit": "2026-08-26T14:29:03Z",
+            "last_commit": "2026-08-27T10:31:07Z",
             "owner": "luckyPipewrench",
             "repo": "pipelock",
-            "stars": 814
+            "stars": 816
           }
         },
         {
@@ -320,10 +320,10 @@
             "archived": false,
             "id": 1182547092,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T14:22:31Z",
+            "last_commit": "2026-08-27T11:20:14Z",
             "owner": "NVIDIA",
             "repo": "NemoClaw",
-            "stars": 22284
+            "stars": 22292
           }
         },
         {
@@ -335,10 +335,10 @@
             "archived": false,
             "id": 1206553433,
             "language": "Go",
-            "last_commit": "2026-08-26T14:10:54Z",
+            "last_commit": "2026-08-27T10:27:12Z",
             "owner": "TencentCloud",
             "repo": "CubeSandbox",
-            "stars": 11346
+            "stars": 11361
           }
         },
         {
@@ -353,7 +353,7 @@
             "last_commit": "2026-01-12T12:50:28Z",
             "owner": "invariantlabs-ai",
             "repo": "invariant",
-            "stars": 452
+            "stars": 453
           }
         },
         {
@@ -383,7 +383,7 @@
             "last_commit": "2026-07-08T23:58:40Z",
             "owner": "protectai",
             "repo": "llm-guard",
-            "stars": 3203
+            "stars": 3204
           }
         },
         {
@@ -398,7 +398,7 @@
             "last_commit": "2024-08-07T23:35:48Z",
             "owner": "protectai",
             "repo": "rebuff",
-            "stars": 1520
+            "stars": 1521
           }
         },
         {
@@ -410,10 +410,10 @@
             "archived": false,
             "id": 629494390,
             "language": "Python",
-            "last_commit": "2026-08-26T12:03:53Z",
+            "last_commit": "2026-08-26T21:38:00Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7015
+            "stars": 7022
           }
         },
         {
@@ -425,10 +425,10 @@
             "archived": false,
             "id": 633927609,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T14:22:35Z",
+            "last_commit": "2026-08-27T00:14:28Z",
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24591
+            "stars": 24616
           }
         },
         {
@@ -443,7 +443,7 @@
             "last_commit": "2026-08-25T22:37:37Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9032
+            "stars": 9041
           }
         },
         {
@@ -500,7 +500,7 @@
             "archived": false,
             "id": 1262005492,
             "language": "Python",
-            "last_commit": "2026-08-24T15:04:56Z",
+            "last_commit": "2026-08-26T14:55:47Z",
             "owner": "pezhik",
             "repo": "skilltotal",
             "stars": 1
@@ -560,7 +560,7 @@
             "archived": false,
             "id": 1212416512,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T12:35:27Z",
+            "last_commit": "2026-08-27T11:07:31Z",
             "owner": "Rul1an",
             "repo": "Assay-Harness",
             "stars": 2
@@ -575,10 +575,10 @@
             "archived": false,
             "id": 962024783,
             "language": "Python",
-            "last_commit": "2026-08-26T14:22:42Z",
+            "last_commit": "2026-08-27T07:48:07Z",
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 2959
+            "stars": 2964
           }
         },
         {
@@ -668,7 +668,7 @@
             "last_commit": "2026-08-19T19:33:22Z",
             "owner": "clawvisor",
             "repo": "clawvisor",
-            "stars": 272
+            "stars": 273
           }
         },
         {
@@ -716,10 +716,10 @@
             "archived": false,
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-26T03:25:26Z",
+            "last_commit": "2026-08-27T10:04:29Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167934
+            "stars": 168048
           }
         },
         {
@@ -731,10 +731,10 @@
             "archived": false,
             "id": 896335270,
             "language": null,
-            "last_commit": "2026-08-17T21:28:42Z",
+            "last_commit": "2026-08-26T20:37:13Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92844
+            "stars": 92872
           }
         },
         {
@@ -749,7 +749,7 @@
             "last_commit": "2026-08-21T18:52:45Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29685
+            "stars": 29696
           }
         },
         {
@@ -764,7 +764,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9325
+            "stars": 9327
           }
         },
         {
@@ -802,9 +802,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:29:36.015Z",
-    "original_repository": "LLMSecurity/awesome-agent-skills-security",
-    "original_repository_id": 1176605030,
+    "last_updated": "2026-08-27T11:22:49.081Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1176605030,
+      "language": null,
+      "last_commit": "2026-08-19T18:03:02Z",
+      "owner": "LLMSecurity",
+      "repo": "awesome-agent-skills-security",
+      "stars": 85
+    },
     "original_repository_sha": "13f86746c65dbb30290c56bd5340c212c71343d7",
     "enhanced_repository": "enhansome/enhansome-agent-skills-security",
     "enhanced_repository_description": null,
