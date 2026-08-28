@@ -18,7 +18,8 @@
                 "owner": "Limax666",
                 "repo": "AudioAgentSecurity",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.672Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "hwanchang00",
                 "repo": "ChatInject",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.672Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "BorealisAI",
                 "repo": "StepJack",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.672Z"
             }
           ],
           "description": null,
@@ -83,7 +86,8 @@
                 "owner": "GraceBrigham",
                 "repo": "Janus",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.672Z"
             }
           ],
           "description": null,
@@ -105,7 +109,8 @@
                 "owner": "snowcatsmoking",
                 "repo": "SafeKeep",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.672Z"
             }
           ],
           "description": null,
@@ -127,7 +132,8 @@
                 "owner": "Wang-Yanting",
                 "repo": "PIMiner",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:13:29.672Z"
             }
           ],
           "description": null,
@@ -152,8 +158,9 @@
             "last_commit": "2026-04-16T20:53:34Z",
             "owner": "agiresearch",
             "repo": "ASB",
-            "stars": 290
-          }
+            "stars": 292
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -167,8 +174,9 @@
             "last_commit": "2024-07-02T05:39:24Z",
             "owner": "uiuc-kang-lab",
             "repo": "InjecAgent",
-            "stars": 163
-          }
+            "stars": 164
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -183,7 +191,8 @@
             "owner": "Lordog",
             "repo": "R-Judge",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -198,7 +207,8 @@
             "owner": "Junjie-Ye",
             "repo": "ToolSword",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -213,7 +223,8 @@
             "owner": "LLMSecurity",
             "repo": "skillguard",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -228,7 +239,8 @@
             "owner": "Limax666",
             "repo": "AudioAgentSecurity",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -243,7 +255,8 @@
             "owner": "BorealisAI",
             "repo": "StepJack",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         }
       ],
       "title": "Benchmarks & Datasets"
@@ -260,11 +273,12 @@
             "archived": false,
             "id": 1159563091,
             "language": "Python",
-            "last_commit": "2026-08-27T16:12:26Z",
+            "last_commit": "2026-08-28T16:36:26Z",
             "owner": "OWASP",
             "repo": "www-project-agent-memory-guard",
-            "stars": 159
-          }
+            "stars": 160
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -279,7 +293,8 @@
             "owner": "junbuilds96",
             "repo": "bounty-sieve",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -294,7 +309,8 @@
             "owner": "LLMSecurity",
             "repo": "skillguard",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -305,11 +321,12 @@
             "archived": false,
             "id": 1152497359,
             "language": "Go",
-            "last_commit": "2026-08-27T23:09:15Z",
+            "last_commit": "2026-08-28T23:11:28Z",
             "owner": "luckyPipewrench",
             "repo": "pipelock",
-            "stars": 818
-          }
+            "stars": 821
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -320,11 +337,12 @@
             "archived": false,
             "id": 1182547092,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T23:12:40Z",
+            "last_commit": "2026-08-28T23:10:28Z",
             "owner": "NVIDIA",
             "repo": "NemoClaw",
-            "stars": 22295
-          }
+            "stars": 22297
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -335,11 +353,12 @@
             "archived": false,
             "id": 1206553433,
             "language": "Go",
-            "last_commit": "2026-08-27T12:38:16Z",
+            "last_commit": "2026-08-28T10:54:59Z",
             "owner": "TencentCloud",
             "repo": "CubeSandbox",
-            "stars": 11365
-          }
+            "stars": 11378
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -354,7 +373,8 @@
             "owner": "invariantlabs-ai",
             "repo": "invariant",
             "stars": 453
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -369,7 +389,8 @@
             "owner": "ArmorerLabs",
             "repo": "Armorer-Guard",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -384,7 +405,8 @@
             "owner": "protectai",
             "repo": "llm-guard",
             "stars": 3205
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -399,7 +421,8 @@
             "owner": "protectai",
             "repo": "rebuff",
             "stars": 1521
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -413,8 +436,9 @@
             "last_commit": "2026-08-27T16:40:49Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7023
-          }
+            "stars": 7025
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -425,11 +449,12 @@
             "archived": false,
             "id": 633927609,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T23:12:47Z",
+            "last_commit": "2026-08-28T20:43:01Z",
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24623
-          }
+            "stars": 24650
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -443,8 +468,9 @@
             "last_commit": "2026-08-25T22:37:37Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9047
-          }
+            "stars": 9066
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -458,8 +484,9 @@
             "last_commit": "2026-05-05T07:08:37Z",
             "owner": "VulcanLab",
             "repo": "IPI-Proxy",
-            "stars": 13
-          }
+            "stars": 15
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -474,7 +501,8 @@
             "owner": "cerebrixos-org",
             "repo": "tuning-engines-cli",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -489,7 +517,8 @@
             "owner": "sumleo",
             "repo": "AgentSkillsScanner",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -504,7 +533,8 @@
             "owner": "pezhik",
             "repo": "skilltotal",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -519,7 +549,8 @@
             "owner": "skills-lock",
             "repo": "skil-lock",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -534,7 +565,8 @@
             "owner": "cubxxw",
             "repo": "agent-diff-guard",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -549,7 +581,8 @@
             "owner": "dkoly",
             "repo": "skillid",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -564,7 +597,8 @@
             "owner": "Rul1an",
             "repo": "Assay-Harness",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -575,11 +609,12 @@
             "archived": false,
             "id": 962024783,
             "language": "Python",
-            "last_commit": "2026-08-27T13:03:42Z",
+            "last_commit": "2026-08-28T20:08:09Z",
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 2964
-          }
+            "stars": 2971
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -594,7 +629,8 @@
             "owner": "DeepScan-Security",
             "repo": "dscan",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -609,7 +645,8 @@
             "owner": "sayfos-labs",
             "repo": "sayfos-sdk",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -624,7 +661,8 @@
             "owner": "pic-standard",
             "repo": "pic-standard",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -639,7 +677,8 @@
             "owner": "junlinwk",
             "repo": "agent-sentinel",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -654,7 +693,8 @@
             "owner": "Prasanna-27eng",
             "repo": "mcp-sploit",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -668,8 +708,9 @@
             "last_commit": "2026-08-19T19:33:22Z",
             "owner": "clawvisor",
             "repo": "clawvisor",
-            "stars": 273
-          }
+            "stars": 274
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -684,7 +725,8 @@
             "owner": "trnt-ai",
             "repo": "trent-openclaw-security-assessment",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -699,7 +741,8 @@
             "owner": "arian-gogani",
             "repo": "nobulex",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         }
       ],
       "title": "Tools & Frameworks"
@@ -716,11 +759,12 @@
             "archived": false,
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-27T10:04:29Z",
+            "last_commit": "2026-08-28T05:47:17Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 168083
-          }
+            "stars": 168122
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -734,8 +778,9 @@
             "last_commit": "2026-08-27T21:09:23Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92892
-          }
+            "stars": 92997
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -749,8 +794,9 @@
             "last_commit": "2026-08-21T18:52:45Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29711
-          }
+            "stars": 29731
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -764,8 +810,9 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9328
-          }
+            "stars": 9330
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -780,7 +827,8 @@
             "owner": "corca-ai",
             "repo": "awesome-llm-security",
             "stars": 1687
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         },
         {
           "node_type": "item",
@@ -795,14 +843,15 @@
             "owner": "hari-sikchi",
             "repo": "awesome-ai-safety",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T23:13:29.672Z"
         }
       ],
       "title": "Related Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:14:19.933Z",
+    "last_updated": "2026-08-28T23:13:29.672Z",
     "original_repository_info": {
       "archived": false,
       "id": 1176605030,
@@ -810,7 +859,7 @@
       "last_commit": "2026-08-19T18:03:02Z",
       "owner": "LLMSecurity",
       "repo": "awesome-agent-skills-security",
-      "stars": 85
+      "stars": 86
     },
     "original_repository_sha": "13f86746c65dbb30290c56bd5340c212c71343d7",
     "enhanced_repository": "enhansome/enhansome-agent-skills-security",
