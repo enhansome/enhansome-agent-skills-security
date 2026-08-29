@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1317191306,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-30T12:16:45Z",
+                "open_issues": 0,
                 "owner": "Limax666",
                 "repo": "AudioAgentSecurity",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.672Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2026] Official implementation of \"ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents\"",
+                "homepage": "https://hwanchang00.github.io/chatinject_project_page",
                 "id": 1065135404,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-23T06:22:51Z",
+                "open_issues": 0,
                 "owner": "hwanchang00",
                 "repo": "ChatInject",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.672Z"
             },
@@ -51,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1230089298,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-05T17:28:07Z",
+                "open_issues": 1,
                 "owner": "BorealisAI",
                 "repo": "StepJack",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.672Z"
             }
@@ -80,12 +95,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1286463397,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-01T20:32:44Z",
+                "open_issues": 0,
                 "owner": "GraceBrigham",
                 "repo": "Janus",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.672Z"
             }
@@ -103,12 +123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool Specifications Matter: Uncovering and Mitigating Safety Risks in AI Agents",
+                "homepage": null,
                 "id": 1318190591,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-31T09:47:17Z",
+                "open_issues": 1,
                 "owner": "snowcatsmoking",
                 "repo": "SafeKeep",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.672Z"
             }
@@ -126,12 +151,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1313485060,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-02T02:14:03Z",
+                "open_issues": 0,
                 "owner": "Wang-Yanting",
                 "repo": "PIMiner",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.672Z"
             }
@@ -153,12 +183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent Security Bench (ASB)",
+            "homepage": null,
             "id": 866876035,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-16T20:53:34Z",
+            "open_issues": 4,
             "owner": "agiresearch",
             "repo": "ASB",
-            "stars": 292
+            "stars": 292,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -169,12 +204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 760248121,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-02T05:39:24Z",
+            "open_issues": 4,
             "owner": "uiuc-kang-lab",
             "repo": "InjecAgent",
-            "stars": 164
+            "stars": 164,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -185,12 +225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R-Judge: Benchmarking Safety Risk Awareness for LLM Agents (EMNLP Findings 2024)",
+            "homepage": "https://arxiv.org/abs/2401.10019",
             "id": 745008010,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-11T01:45:49Z",
+            "open_issues": 2,
             "owner": "Lordog",
             "repo": "R-Judge",
-            "stars": 110
+            "stars": 111,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -201,12 +246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL 2024] ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages",
+            "homepage": null,
             "id": 758513725,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-09-12T15:32:49Z",
+            "open_issues": 0,
             "owner": "Junjie-Ye",
             "repo": "ToolSword",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -217,12 +267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent Skill Security Auditor — Audit agent skills against OWASP Agentic Top 10 & MITRE ATLAS before installation",
+            "homepage": null,
             "id": 1166956328,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-25T20:02:14Z",
+            "open_issues": 0,
             "owner": "LLMSecurity",
             "repo": "skillguard",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -233,12 +288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1317191306,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-30T12:16:45Z",
+            "open_issues": 0,
             "owner": "Limax666",
             "repo": "AudioAgentSecurity",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -249,12 +309,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1230089298,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-05T17:28:07Z",
+            "open_issues": 1,
             "owner": "BorealisAI",
             "repo": "StepJack",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         }
@@ -271,12 +336,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OWASP Foundation web repository",
+            "homepage": "http://owasp.org/www-project-agent-memory-guard/",
             "id": 1159563091,
             "language": "Python",
-            "last_commit": "2026-08-28T16:36:26Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:09:33Z",
+            "open_issues": 26,
             "owner": "OWASP",
             "repo": "www-project-agent-memory-guard",
-            "stars": 160
+            "stars": 161,
+            "topics": [
+              "agent-memory",
+              "agentic-ai",
+              "ai-agents",
+              "ai-safety",
+              "ai-security",
+              "autogen",
+              "crewai",
+              "langchain",
+              "llm-agents",
+              "llm-security",
+              "mcp",
+              "mcp-server",
+              "mem0",
+              "memory-poisoning",
+              "openai-agents",
+              "owasp",
+              "prompt-injection",
+              "python",
+              "rag-security",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -287,12 +378,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Read-only bounty opportunity triage and safety filtering.",
+            "homepage": "https://github.com/junbuilds96/bounty-sieve/releases/tag/v0.1.0",
             "id": 1246454920,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-27T17:23:25Z",
+            "open_issues": 0,
             "owner": "junbuilds96",
             "repo": "bounty-sieve",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "agent-safety",
+              "bounty",
+              "cli",
+              "open-source",
+              "python",
+              "triage"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -303,12 +406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent Skill Security Auditor — Audit agent skills against OWASP Agentic Top 10 & MITRE ATLAS before installation",
+            "homepage": null,
             "id": 1166956328,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-25T20:02:14Z",
+            "open_issues": 0,
             "owner": "LLMSecurity",
             "repo": "skillguard",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -319,12 +427,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action receipts: verifiable audit evidence from outside the agent.",
+            "homepage": "https://pipelab.org",
             "id": 1152497359,
             "language": "Go",
-            "last_commit": "2026-08-28T23:11:28Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:28:41Z",
+            "open_issues": 6,
             "owner": "luckyPipewrench",
             "repo": "pipelock",
-            "stars": 821
+            "stars": 821,
+            "topics": [
+              "agent-security",
+              "ai-agent-security",
+              "ai-agents",
+              "ai-firewall",
+              "ai-security",
+              "dlp",
+              "egress-proxy",
+              "github-action",
+              "golang",
+              "integrity-monitoring",
+              "llm-firewall",
+              "llm-security",
+              "mcp",
+              "mcp-security",
+              "prompt-injection",
+              "security",
+              "security-scanning",
+              "security-tools",
+              "ssrf",
+              "ssrf-protection"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -335,12 +469,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+            "homepage": "https://docs.nvidia.com/nemoclaw/latest/",
             "id": 1182547092,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:10:28Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:48:03Z",
+            "open_issues": 503,
             "owner": "NVIDIA",
             "repo": "NemoClaw",
-            "stars": 22297
+            "stars": 22302,
+            "topics": [
+              "ai-agents",
+              "hermes",
+              "nvidia",
+              "openclaw",
+              "openshell",
+              "sandboxing",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -351,12 +498,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+            "homepage": "https://cubesandbox.com",
             "id": 1206553433,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T10:54:59Z",
+            "open_issues": 179,
             "owner": "TencentCloud",
             "repo": "CubeSandbox",
-            "stars": 11378
+            "stars": 11378,
+            "topics": [
+              "agents",
+              "container",
+              "sandbox"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -367,12 +523,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Guardrails for secure and robust agent development",
+            "homepage": "https://invariantlabs.ai",
             "id": 797652850,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-12T12:50:28Z",
+            "open_issues": 10,
             "owner": "invariantlabs-ai",
             "repo": "invariant",
-            "stars": 453
+            "stars": 453,
+            "topics": [
+              "agents",
+              "ai",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -383,12 +548,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public SDKs and integration contracts for Armorer Guard.",
+            "homepage": "https://armorerlabs.com",
             "id": 1208853156,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T21:15:00Z",
+            "open_issues": 0,
             "owner": "ArmorerLabs",
             "repo": "Armorer-Guard",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "agent-security",
+              "ai-agents",
+              "ai-security",
+              "guardrails",
+              "langgraph",
+              "mcp-security",
+              "python",
+              "sdk",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -399,12 +579,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Security Toolkit for LLM Interactions",
+            "homepage": "https://protectai.github.io/llm-guard/",
             "id": 671629770,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-08T23:58:40Z",
+            "open_issues": 40,
             "owner": "protectai",
             "repo": "llm-guard",
-            "stars": 3205
+            "stars": 3205,
+            "topics": [
+              "adversarial-machine-learning",
+              "chatgpt",
+              "large-language-models",
+              "llm",
+              "llm-security",
+              "llmops",
+              "prompt-engineering",
+              "prompt-injection",
+              "security-tools",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -415,12 +611,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "LLM Prompt Injection Detector",
+            "homepage": "https://playground.rebuff.ai",
             "id": 631814434,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-07T23:35:48Z",
+            "open_issues": 33,
             "owner": "protectai",
             "repo": "rebuff",
-            "stars": 1521
+            "stars": 1521,
+            "topics": [
+              "llm",
+              "llmops",
+              "prompt-engineering",
+              "prompt-injection",
+              "prompts",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -431,12 +639,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.",
+            "homepage": "https://docs.nvidia.com/nemo/guardrails/latest/index.html",
             "id": 629494390,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T16:40:49Z",
+            "open_issues": 205,
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7025
+            "stars": 7025,
+            "topics": [
+              "agents",
+              "generative-ai",
+              "guardrails",
+              "llm-safety",
+              "llm-security",
+              "llms",
+              "nvidia",
+              "python",
+              "safety"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -447,12 +670,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+            "homepage": "https://promptfoo.dev",
             "id": 633927609,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:43:01Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:53:58Z",
+            "open_issues": 540,
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24650
+            "stars": 24651,
+            "topics": [
+              "ci",
+              "ci-cd",
+              "cicd",
+              "evaluation",
+              "evaluation-framework",
+              "llm",
+              "llm-eval",
+              "llm-evaluation",
+              "llm-evaluation-framework",
+              "llmops",
+              "pentesting",
+              "prompt-engineering",
+              "prompt-testing",
+              "prompts",
+              "rag",
+              "red-teaming",
+              "testing",
+              "vulnerability-scanners"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -463,12 +710,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the LLM vulnerability scanner",
+            "homepage": "https://discord.gg/uVch4puUCs",
             "id": 639097338,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T22:37:37Z",
+            "open_issues": 408,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9066
+            "stars": 9066,
+            "topics": [
+              "ai",
+              "llm-evaluation",
+              "llm-security",
+              "security-scanners",
+              "vulnerability-assessment"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -479,12 +737,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1229416277,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-05T07:08:37Z",
+            "open_issues": 0,
             "owner": "VulcanLab",
             "repo": "IPI-Proxy",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -495,12 +758,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI & MCP server for Tuning Engines — fine-tune LLMs on code repositories",
+            "homepage": null,
             "id": 1182089557,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T02:06:00Z",
+            "open_issues": 2,
             "owner": "cerebrixos-org",
             "repo": "tuning-engines-cli",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "ai",
+              "cli",
+              "dsh-plugin",
+              "fine-tuning",
+              "llm",
+              "lora",
+              "machine-learning",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "open-source",
+              "qlora",
+              "slm",
+              "sovereign-ai"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -511,12 +794,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1153538365,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-09T14:10:34Z",
+            "open_issues": 0,
             "owner": "sumleo",
             "repo": "AgentSkillsScanner",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -527,12 +815,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scan AI components (MCP servers, agent skills, npm/PyPI packages) for malware & risky capabilities. Local, deterministic, evidence-anchored. Free & OSS.",
+            "homepage": "https://www.skilltotal.ai",
             "id": 1262005492,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T14:55:47Z",
+            "open_issues": 5,
             "owner": "pezhik",
             "repo": "skilltotal",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ai-agents",
+              "ai-security",
+              "devsecops",
+              "llm-security",
+              "mcp",
+              "model-context-protocol",
+              "prompt-injection",
+              "python",
+              "sarif",
+              "security-tools",
+              "static-analysis",
+              "supply-chain-security"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -543,12 +849,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pin AI Skill behavior. Block unapproved drift in CI. See exactly what changed in every PR.",
+            "homepage": "https://github.com/skills-lock/skil-lock",
             "id": 1238024442,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T17:15:26Z",
+            "open_issues": 0,
             "owner": "skills-lock",
             "repo": "skil-lock",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "agent-skills",
+              "ai",
+              "ai-agents",
+              "ai-skills",
+              "apache-2",
+              "claude-code",
+              "cli",
+              "codex",
+              "copilot",
+              "cursor-ai",
+              "developer-tools",
+              "github-action",
+              "golang",
+              "lockfile",
+              "security",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -559,12 +887,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "合并前的 agent 改动守门人 — 当 AI agent 在你没盯着时改了 CI/密钥/删测试/任务外的东西,它在 merge 前把那 1-3 处拎到你眼前逼一次确认。宁可漏,不可烦。",
+            "homepage": null,
             "id": 1264246073,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-25T13:23:54Z",
+            "open_issues": 1,
             "owner": "cubxxw",
             "repo": "agent-diff-guard",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "ai-agent",
+              "ai-safety",
+              "claude-code",
+              "code-review",
+              "developer-tools",
+              "devops",
+              "git-hook",
+              "guardrail"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -575,12 +917,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Organization agent guardrails — policy-driven skills and hooks for Claude Code",
+            "homepage": null,
             "id": 1264191663,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-10T14:43:20Z",
+            "open_issues": 0,
             "owner": "dkoly",
             "repo": "skillid",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -591,12 +938,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recipe, gate, and report layer for canonical Assay evidence artifacts: DSSE recipes, replayable digest-bound packs, CI gates.",
+            "homepage": "https://getassay.dev",
             "id": 1212416512,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T23:12:24Z",
+            "open_issues": 0,
             "owner": "Rul1an",
             "repo": "Assay-Harness",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "agent-security",
+              "ai-agents",
+              "ci",
+              "dsse",
+              "evidence",
+              "mcp",
+              "provenance"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -607,12 +967,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security scanner for AI agents, MCP servers and agent skills.",
+            "homepage": null,
             "id": 962024783,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:08:09Z",
+            "open_issues": 8,
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 2971
+            "stars": 2971,
+            "topics": [
+              "agent",
+              "ai",
+              "mcp",
+              "modelcontextprotocol",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -623,12 +994,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source agent security suite — intercept, scan, and test your AI agents",
+            "homepage": "https://deepscan.security",
             "id": 1263454417,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-21T04:12:57Z",
+            "open_issues": 3,
             "owner": "DeepScan-Security",
             "repo": "dscan",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "ai-agents",
+              "devsecops",
+              "llm-security",
+              "mcp",
+              "open-source",
+              "prompt-injection",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -639,12 +1023,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI agent security SDK for runtime guardrails: control tool calls, source-chain provenance, budget limits, plan preflight, prompt-injection isolation, and adjudication tokens. Apache-2.0 Python SDK.",
+            "homepage": null,
             "id": 1263843450,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-15T10:28:14Z",
+            "open_issues": 0,
             "owner": "sayfos-labs",
             "repo": "sayfos-sdk",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "agent-security",
+              "ai-agents",
+              "ai-safety",
+              "autonomous-agents",
+              "budget-control",
+              "llm-security",
+              "policy-engine",
+              "prompt-injection",
+              "provenance",
+              "python-sdk",
+              "runtime-guardrails",
+              "tool-calling"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -655,12 +1057,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open standard for Provenance & Intent Contracts (PIC) in AI agents. Verify intent, provenance, and evidence before high-impact tool calls.",
+            "homepage": "https://madeinpluto.com/pic",
             "id": 1130565808,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T09:36:46Z",
+            "open_issues": 21,
             "owner": "pic-standard",
             "repo": "pic-standard",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "action-proposals",
+              "agentic-ai",
+              "agents",
+              "ai",
+              "artificial-intelligence",
+              "causal-gap",
+              "cli",
+              "crewai",
+              "firewall",
+              "langgraph",
+              "llm",
+              "mcp",
+              "model-context-protocol",
+              "openprotocol",
+              "opensource",
+              "pic-standard",
+              "prompt-injection",
+              "provenance",
+              "python",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -671,12 +1099,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent Sentinel is an eBPF/BPF LSM prototype that monitors AI agent behavior and blocks sensitive file access at the Linux kernel level.   It detects prompt-injection-driven attempts to read files like /etc/shadow, denies them with EPERM, and emits correlated security alerts.",
+            "homepage": null,
             "id": 1265323148,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-11T01:49:37Z",
+            "open_issues": 0,
             "owner": "junlinwk",
             "repo": "agent-sentinel",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -687,12 +1120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Metasploit-style exploitation framework for MCP servers and MCP security gateways",
+            "homepage": null,
             "id": 1265077792,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-11T10:22:25Z",
+            "open_issues": 0,
             "owner": "Prasanna-27eng",
             "repo": "mcp-sploit",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -703,12 +1141,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "API gateway for purpose-based authorization for AI agents. Human approval for tasks, AI-native enforcement for agents.",
+            "homepage": null,
             "id": 1170246605,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T19:33:22Z",
+            "open_issues": 9,
             "owner": "clawvisor",
             "repo": "clawvisor",
-            "stars": 274
+            "stars": 274,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -719,12 +1162,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free security assessment for your OpenClaw 🦞 environment. Scans gateway config, tool permissions, MCP servers, plugins, and chained attack paths.",
+            "homepage": "https://trent.ai",
             "id": 1172465854,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-27T21:31:39Z",
+            "open_issues": 3,
             "owner": "trnt-ai",
             "repo": "trent-openclaw-security-assessment",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "agent-security",
+              "agentic-security",
+              "ai-security",
+              "ai-security-tool",
+              "llm-security",
+              "openclaw",
+              "openclaw-security",
+              "openclaw-skills",
+              "skill"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -735,12 +1193,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prior direction, kept rather than deleted. Signed, offline-verifiable receipts for AI agent actions, and a reference implementation of the OWASP Agentic Skills Top 10 AST09 receipt pattern. Nobulex is now the independent reliability registry for agent tools: github.com/arian-gogani/nobulex-registry",
+            "homepage": "https://nobulex.com",
             "id": 1170108646,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-03T22:50:14Z",
+            "open_issues": 4,
             "owner": "arian-gogani",
             "repo": "nobulex",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "accountability",
+              "agent-audit",
+              "agent-governance",
+              "ai-agents",
+              "ai-security",
+              "audit-trail",
+              "autonomous-agents",
+              "compliance",
+              "credit-score",
+              "cryptography",
+              "ed25519",
+              "eu-ai-act",
+              "hash-chain",
+              "mcp-server",
+              "owasp",
+              "python",
+              "receipts",
+              "reputation",
+              "rfc8785",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         }
@@ -757,12 +1241,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+            "homepage": "https://prompts.chat",
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-28T05:47:17Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:15:57Z",
+            "open_issues": 69,
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 168122
+            "stars": 168128,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "awesome-list",
+              "chatgpt",
+              "chatgpt-prompts",
+              "claude",
+              "gemini",
+              "gpt",
+              "gpt-4",
+              "llm",
+              "machine-learning",
+              "nextjs",
+              "open-source",
+              "openai",
+              "prompt-engineering",
+              "prompts",
+              "prompts-chat",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -773,12 +1281,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of MCP servers.",
+            "homepage": "https://glama.ai/mcp/servers",
             "id": 896335270,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T21:09:23Z",
+            "open_issues": 3712,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92997
+            "stars": 93010,
+            "topics": [
+              "ai",
+              "mcp"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -789,12 +1305,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of AI autonomous agents",
+            "homepage": "https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=awesome-ai-agents",
             "id": 655459367,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T18:52:45Z",
+            "open_issues": 960,
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29731
+            "stars": 29732,
+            "topics": [
+              "agent",
+              "ai",
+              "artificial-intelligence",
+              "autogpt",
+              "autonomous-agents",
+              "awesome",
+              "babyagi",
+              "copilot",
+              "gpt",
+              "gpt-4",
+              "gpt-engineer",
+              "openai",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -805,12 +1340,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " :octocat: Machine Learning for Cyber Security",
+            "homepage": null,
             "id": 76955905,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-08-19T02:14:10Z",
+            "open_issues": 30,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9330
+            "stars": 9331,
+            "topics": [
+              "awesome-list",
+              "cyber-security",
+              "data-mining",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -821,12 +1366,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curation of awesome tools, documents and projects about LLM Security.",
+            "homepage": null,
             "id": 662394571,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-20T01:27:47Z",
+            "open_issues": 196,
             "owner": "corca-ai",
             "repo": "awesome-llm-security",
-            "stars": 1687
+            "stars": 1687,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "llm",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         },
@@ -837,12 +1392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome AI safety papers, projects and communities.",
+            "homepage": null,
             "id": 178391990,
             "language": null,
+            "license": null,
             "last_commit": "2020-02-09T19:04:38Z",
+            "open_issues": 3,
             "owner": "hari-sikchi",
             "repo": "awesome-ai-safety",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
         }
@@ -851,15 +1411,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:13:29.672Z",
+    "last_updated": "2026-08-29T05:03:09.743Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🛡️ A curated list of resources on agent skills security: attacks, defenses, frameworks, and benchmarks for securing AI agent tool use and skill ecosystems",
+      "homepage": null,
       "id": 1176605030,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-19T18:03:02Z",
+      "open_issues": 28,
       "owner": "LLMSecurity",
       "repo": "awesome-agent-skills-security",
-      "stars": 86
+      "stars": 86,
+      "topics": [
+        "agent-security",
+        "ai-safety",
+        "awesome-list",
+        "llm-security",
+        "mcp",
+        "owasp",
+        "prompt-injection",
+        "tool-use"
+      ]
     },
     "original_repository_sha": "13f86746c65dbb30290c56bd5340c212c71343d7",
     "enhanced_repository": "enhansome/enhansome-agent-skills-security",
