@@ -35,6 +35,47 @@
           "children": [
             {
               "node_type": "item",
+              "title": "📄 Scanning the Harness: An Empirical Study of Supply-Chain Defects in AI Coding-Agent Configurations",
+              "description": "Kapner et al., 2026. Studies the AI coding-agent harness (instruction files, skills, hooks, MCP declarations, subagents) as an unlocked dependency layer across 3,171 public GitHub repositories, validating every finding via independent re-derivation, an LLM adjudicator, and a second re-check; confirms three security classes — 9.8% of setups pin no MCP server version, 3.1% pre-approve arbitrary execution behind scoped-looking grants (e.g. ), and 3.8% carry a skill that pre-approves the shell for whoever installs it (shipping inside 3.7% of published collections) — with 16.0% of setups carrying a security defect. Tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Evaluate (lint, review, and security-audit) your AI coding agent harness.",
+                "homepage": null,
+                "id": 1255753477,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-16T19:29:16Z",
+                "open_issues": 4,
+                "owner": "redhat-community-ai-tools",
+                "repo": "harness-eval",
+                "stars": 30,
+                "topics": [
+                  "ai",
+                  "claude-code",
+                  "code-agent",
+                  "copilot",
+                  "cursor",
+                  "evaluation",
+                  "gemini-cli",
+                  "github-actions",
+                  "harness",
+                  "health-check",
+                  "lint",
+                  "opencode"
+                ]
+              },
+              "first_seen": "2026-09-17T17:45:22.542Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tool Poisoning & Supply Chain"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "📄 ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents",
               "description": "Chang et al., ICLR 2026. Formats injected payloads to mimic native chat templates (optionally primed by persuasive multi-turn dialogue) so agents elevate them to system-level trust; transfers across models and largely bypasses prompt-based defenses. Code.",
               "children": [],
@@ -121,7 +162,7 @@
                 "id": 1286463397,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-16T16:47:48Z",
+                "last_commit": "2026-09-16T18:43:26Z",
                 "open_issues": 0,
                 "owner": "GraceBrigham",
                 "repo": "Janus",
@@ -157,6 +198,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.672Z"
+            },
+            {
+              "node_type": "item",
+              "title": "📄 Universal Defenses for Tool-Integrated LLM Agents Against Adversarial Attacks",
+              "description": "Li & Wang, 2026. Explores generalizable defenses spanning four attack types at once (direct/indirect prompt injection, memory poisoning, backdoor) via two universal tool-based mechanisms — Attacker Tool Filtering, which uses anomaly detection (e.g. Isolation Forest) to remove suspicious tools, and Normal Tool Recalling, a white-box method restoring the agent's original toolset before planning — plus chain-of-thought, self-reflection, and task-paraphrasing prompt defenses; across four open-source and three proprietary LLMs (through GPT-5) it reaches 0% attack success in many settings while preserving task success. Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1068601965,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-10-02T17:23:31Z",
+                "open_issues": 0,
+                "owner": "Xiaoyan-Lisa",
+                "repo": "Defenses-for-Tool-Integrated-LLM",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-17T17:45:22.542Z"
             }
           ],
           "description": null,
@@ -234,7 +296,7 @@
             "open_issues": 5,
             "owner": "uiuc-kang-lab",
             "repo": "InjecAgent",
-            "stars": 169,
+            "stars": 171,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.672Z"
@@ -362,8 +424,8 @@
             "id": 1159563091,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T12:42:55Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-17T12:42:31Z",
+            "open_issues": 26,
             "owner": "OWASP",
             "repo": "www-project-agent-memory-guard",
             "stars": 177,
@@ -453,11 +515,11 @@
             "id": 1152497359,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T17:06:16Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-17T17:42:07Z",
+            "open_issues": 6,
             "owner": "luckyPipewrench",
             "repo": "pipelock",
-            "stars": 875,
+            "stars": 879,
             "topics": [
               "agent-security",
               "ai-agent-security",
@@ -495,11 +557,11 @@
             "id": 1182547092,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T17:45:29Z",
-            "open_issues": 636,
+            "last_commit": "2026-09-17T17:45:02Z",
+            "open_issues": 650,
             "owner": "NVIDIA",
             "repo": "NemoClaw",
-            "stars": 22475,
+            "stars": 22485,
             "topics": [
               "ai-agents",
               "deep-agents",
@@ -525,11 +587,11 @@
             "id": 1206553433,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T13:04:20Z",
-            "open_issues": 134,
+            "last_commit": "2026-09-17T08:28:33Z",
+            "open_issues": 131,
             "owner": "TencentCloud",
             "repo": "CubeSandbox",
-            "stars": 12551,
+            "stars": 12661,
             "topics": [
               "agents",
               "container",
@@ -666,11 +728,11 @@
             "id": 629494390,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T17:01:12Z",
-            "open_issues": 231,
+            "last_commit": "2026-09-17T03:01:13Z",
+            "open_issues": 233,
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7145,
+            "stars": 7156,
             "topics": [
               "agents",
               "generative-ai",
@@ -697,11 +759,11 @@
             "id": 633927609,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T17:05:59Z",
-            "open_issues": 632,
+            "last_commit": "2026-09-17T17:24:30Z",
+            "open_issues": 631,
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 25184,
+            "stars": 25227,
             "topics": [
               "ci",
               "ci-cd",
@@ -737,11 +799,11 @@
             "id": 639097338,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T18:56:03Z",
-            "open_issues": 437,
+            "last_commit": "2026-09-16T21:54:58Z",
+            "open_issues": 438,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9268,
+            "stars": 9284,
             "topics": [
               "ai",
               "llm-evaluation",
@@ -842,7 +904,7 @@
             "id": 1262005492,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T11:14:27Z",
+            "last_commit": "2026-09-17T15:58:34Z",
             "open_issues": 5,
             "owner": "pezhik",
             "repo": "skilltotal",
@@ -965,8 +1027,8 @@
             "id": 1212416512,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T17:18:59Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-17T12:36:52Z",
+            "open_issues": 2,
             "owner": "Rul1an",
             "repo": "Assay-Harness",
             "stars": 2,
@@ -994,11 +1056,11 @@
             "id": 962024783,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T15:01:27Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-17T14:59:22Z",
+            "open_issues": 14,
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 3055,
+            "stars": 3059,
             "topics": [
               "agent",
               "ai",
@@ -1084,7 +1146,7 @@
             "id": 1130565808,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T17:31:46Z",
+            "last_commit": "2026-09-17T17:20:07Z",
             "open_issues": 21,
             "owner": "pic-standard",
             "repo": "pic-standard",
@@ -1272,7 +1334,7 @@
             "open_issues": 79,
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 170472,
+            "stars": 170547,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1309,10 +1371,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-15T23:17:39Z",
-            "open_issues": 2169,
+            "open_issues": 2226,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 95085,
+            "stars": 95148,
             "topics": [
               "ai",
               "mcp"
@@ -1336,7 +1398,7 @@
             "open_issues": 1038,
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 30038,
+            "stars": 30054,
             "topics": [
               "agent",
               "ai",
@@ -1371,7 +1433,7 @@
             "open_issues": 31,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9383,
+            "stars": 9385,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -1394,10 +1456,10 @@
             "language": null,
             "license": null,
             "last_commit": "2025-08-20T01:27:47Z",
-            "open_issues": 222,
+            "open_issues": 224,
             "owner": "corca-ai",
             "repo": "awesome-llm-security",
-            "stars": 1698,
+            "stars": 1699,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1433,7 +1495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:45:57.541Z",
+    "last_updated": "2026-09-17T17:45:22.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "🛡️ A curated list of resources on agent skills security: attacks, defenses, frameworks, and benchmarks for securing AI agent tool use and skill ecosystems",
@@ -1441,11 +1503,11 @@
       "id": 1176605030,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-15T18:02:53Z",
+      "last_commit": "2026-09-16T18:03:33Z",
       "open_issues": 36,
       "owner": "LLMSecurity",
       "repo": "awesome-agent-skills-security",
-      "stars": 95,
+      "stars": 96,
       "topics": [
         "agent-security",
         "ai-safety",
@@ -1457,7 +1519,7 @@
         "tool-use"
       ]
     },
-    "original_repository_sha": "01e8e4ac4b9adc6a2125bc065d595e40cc2669ec",
+    "original_repository_sha": "c2185e8d0fc369f5de249b9e33cc0a401e3700ac",
     "enhanced_repository": "enhansome/enhansome-agent-skills-security",
     "enhanced_repository_description": null,
     "title": "Awesome Agent Skills Security with stars"
